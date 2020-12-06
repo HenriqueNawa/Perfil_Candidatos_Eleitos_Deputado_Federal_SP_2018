@@ -2,6 +2,28 @@
 **Desenvolvido por:** Henrique Nawa e Thalles Torres</br>
 **Objetivo:** Descrever o perfil dos candidadatos que foram eleitos para deputado federal no estado de São Paulo no ano de 2018.
 **Materiais utilizados:** [Materiais](https://github.com/HenriqueNawa/Perfil_Candidatos_Eleitos_Deputado_Federal_SP_2018/tree/main/Materiais)
+<h2>Gênero dos Eleitos</h2>
+
+<img src="https://github.com/HenriqueNawa/Perfil_Candidatos_Eleitos_Deputado_Federal_SP_2018/blob/main/Gr%C3%A1ficos/Gênero dos eleitos.png"  width="500">
+
+Em relação ao gênero declarado há o predomínio de candidatos que se declaram homem (mais de 80%). Enquanto mulheres ficam com 16.2% dos candidatos eleitos.
+
+Assim tendo homens com mais de 3/4 em relação as mulheres.
+
+<h2>Idade dos Eleitos</h2>
+
+<img src="https://github.com/HenriqueNawa/Perfil_Candidatos_Eleitos_Deputado_Federal_SP_2018/blob/main/Gr%C3%A1ficos/Mediana das Idades dos Eleitos.png"  width="500">
+
+Os eleitos homens são um pouco mais velhos que as mulheres, estando a idade mediana dos homens com 54 anos, e as mulheres com 42 anos.
+
+Tendo uma diferença de idade de mais de 10 anos para os homens.
+
+<h2>Grau de instrução dos eleitos</h2>
+
+<img src="https://github.com/HenriqueNawa/Perfil_Candidatos_Eleitos_Deputado_Federal_SP_2018/blob/main/Gr%C3%A1ficos/Grau de instrução dos eleitos.png"  width="500">
+
+Temos a maioria dos eleitos em SP com Ensino Superior Completo (mais de 85%), seguido pelos candidatos com Superior Incompleto (7.35%).
+
 <h2>Estado Civil</h2>
 
 <img src="https://github.com/HenriqueNawa/Perfil_Candidatos_Eleitos_Deputado_Federal_SP_2018/blob/main/Gr%C3%A1ficos/estado_civil.png"  width="500">
